@@ -15,3 +15,5 @@ IDCAR2015 Dataset
 https://rrc.cvc.uab.es/?ch=4
 
 words_[dataset_name].txt is a ground truth file generated for use in ScrabbleGAN by that dataset.
+
+Code to generate images used in training is in the Google Colab file.
